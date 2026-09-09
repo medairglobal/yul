@@ -23,4 +23,22 @@
 <Phone>
 <phonenumber>104</phonenumber>
 </Phone>
+</Contact><Contact>
+<FirstName>105 Rabih</FirstName>
+<LastName></LastName>
+<Phone>
+<phonenumber>105</phonenumber>
+</Phone>
+</Contact><Contact>
+<FirstName>106 Paul</FirstName>
+<LastName></LastName>
+<Phone>
+<phonenumber>106</phonenumber>
+</Phone>
+</Contact><Contact>
+<FirstName>201 Bruce</FirstName>
+<LastName></LastName>
+<Phone>
+<phonenumber>201</phonenumber>
+</Phone>
 </Contact></AddressBook>
